@@ -10,7 +10,7 @@ LOG_FILE = "ping_log.txt"
 # List of URLs to ping (only use sites you own or have permission for)
 URLS = [
     "https://catterpiweb-learn.onrender.com",
-    "https://your-second-site.com",
+    "https://catterpiweb-learn.onrender.com",
     # add more here
 ]
 
