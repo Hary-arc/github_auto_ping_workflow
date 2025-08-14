@@ -11,6 +11,8 @@ LOG_FILE = "ping_log.txt"
 URLS = [
     "https://catterpiweb-learn.onrender.com",
     "https://catterpiweb-learn.onrender.com",
+    "https://staffsphere-dwcq.onrender.com",
+    "https://staffsphere-dwcq.onrender.com",
     # add more here
 ]
 
